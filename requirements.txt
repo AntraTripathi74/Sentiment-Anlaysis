@@ -1,0 +1,11 @@
+google-cloud-aiplatform==1.25.0
+pandas
+datasets
+google-api-python-client
+pypdf
+faiss-cpu
+shapely==1.8.5.post1 
+google-generativeai
+python-docx
+gradio
+flask
